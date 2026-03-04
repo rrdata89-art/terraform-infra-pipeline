@@ -31,7 +31,7 @@ resource "aws_iam_role_policy_attachment" "lambda_basic_execution" {
 }
 
 resource "aws_lambda_function" "hello_world" {
-  function_name = "rrdata89-art-${terraform.workspace}-hello-world"
+  function_name = "lambda_rrdata89_teste-${terraform.workspace}"
   role          = aws_iam_role.lambda_exec_role.arn
   handler       = "lambda_function.lambda_handler"
   runtime       = "python3.11"
