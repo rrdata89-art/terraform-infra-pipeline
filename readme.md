@@ -14,10 +14,6 @@
 
 </p>
 
-[Se inscreva em nosso canal no Youtube!](https://www.youtube.com/@buildrun-tech?sub_confirmation=1)
-
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=1TNAUW7_bC0)
-
 ## Fluxo da Pipeline
 
 <p align="center" width="100%">
@@ -36,10 +32,6 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 - Clone esse repositório
 - Configure os arquivos workflow 
 - Pronto! Você já está habilitado para implantar infras na AWS com Terraform via pipeline
-
-:mag: Baixe o projeto e teste você mesmo na prática.
-
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
 
 Developed by Build & Run
 
