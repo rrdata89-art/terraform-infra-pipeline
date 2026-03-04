@@ -1,1 +1,1 @@
-bucket_name="prod-sa-east-1-buildrun-video-pipeline"
+bucket_name="rrdata89-art-prod-sa-east-1-pipeline-demo"
