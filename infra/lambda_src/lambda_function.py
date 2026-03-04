@@ -1,6 +1,6 @@
 import json
 
-# Lambda function handler - Apenas para teste de initial commit do lambda
+# Lambda function handler - apenas TESTE
 def lambda_handler(event, context):
     print("hello world")
 
